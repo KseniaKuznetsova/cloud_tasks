@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestAppRR</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Название заметки</string>
+    <string name="description">Описание заметки</string>
+    <string name="date">Дата выполнения</string>
+    <string name="status">Статус</string>
+    <string name="save">Сохранить</string>
+    <string name="back">назад</string>
+    <string name="delete">Удалить заметку</string>
+</resources>

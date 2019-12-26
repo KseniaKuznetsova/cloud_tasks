@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_layout">10dp</dimen>
+    <dimen name="margin_layout_pre_meddle">12dp</dimen>
+    <dimen name="margin_layout_meddle">15dp</dimen>
+    <dimen name="margin_layout_big">20dp</dimen>
+    <dimen name="margin_layout_little">5dp</dimen>
+    <dimen name="radius_card_default">10dp</dimen>
+    <dimen name="card_elevation">6dp</dimen>
+    <dimen name="tall_toolbar_height">165dp</dimen>
+    <dimen name="tall_toolbar_height_list_codes">130dp</dimen>
+    <dimen name="tall_toolbar_height_sign_in">120dp</dimen>
+    <dimen name="size_text_large">17sp</dimen>
+    <dimen name="size_text_big">19sp</dimen>
+    <dimen name="size_text">16sp</dimen>
+    <dimen name="size_text_little">15sp</dimen>
+</resources>
